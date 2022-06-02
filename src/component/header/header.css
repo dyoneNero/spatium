@@ -1,0 +1,38 @@
+.header__container{
+    font-family: "Roboto";
+    font-weight: 500;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px 100px;
+}
+
+.header__nav{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__link{
+    font-size: 19px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.header__link:active{
+    color: #1B8036;
+}
+
+.header__btn{
+    cursor: pointer;
+    color: #FFF;
+    font-size: 19px;
+    width: 151px;
+    height: 52px;
+    border: 0;
+    background: #1B8036;
+    box-shadow: 3px 10px 21px rgba(27, 128, 54, 0.51);
+    border-radius: 26px;
+}

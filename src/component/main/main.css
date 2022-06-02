@@ -1,0 +1,121 @@
+p{
+    margin: 0;
+    padding: 0;
+}
+
+.main__container{
+    margin: 50px 150px 0px 150px;
+    text-align: center;
+}
+
+.main__welcome_chapter{
+    font-family: "Red Hat Display";
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: start;
+}
+
+.main__welcome_title{
+    font-weight: 700;
+    font-size: 74px;
+    color: #1B8036;
+}
+
+.main__welcome_text{
+    font-weight: 500;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.main__welcome_btn{
+    margin-top: 45px;
+    color: #FFFFFF;
+    font-size: 19px;
+    border: 0;
+    width: 163px;
+    height: 60px;
+    background: #1B8036;
+    border-radius: 50px;
+}
+
+
+.main__product_chapter{
+    margin-top: 100px;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 39px;
+    color: #1B8036;
+}
+
+.main__question_chapter{
+    margin-top: 100px;
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 39px;
+}
+
+.main__sub_block{
+    width: 1153px;
+    height: 165px;
+    background: linear-gradient(100.66deg, #1B8036 23.13%, rgba(8, 63, 26, 0.92) 82.12%, rgba(8, 63, 26, 0.86) 97.79%);
+    border-radius: 24px;
+    padding: 27px 30px 27px 70px;
+    margin: 100px 150px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main__sub_text{
+    font-size: 25px;
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.wrapper_inpt {
+    width: 552px;
+    height: 74px;
+    border-radius: 107px;
+    /*border: 1px solid #d1d1d1;*/
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 10px 2px 2px;
+    background-color: #FFFFFF;
+}
+.btn_area {
+    width: 190px;
+    height: 62px;
+    background: #1B8036;
+    border-radius: 30px;
+    color: #fff;
+    font-size: 0.7em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+input {
+    font-size: 19px;
+    border: none;
+    background: none;
+    width: calc(100% - 84px);
+    height: 100%;
+    text-indent: 25px;
+    outline: none;
+}
+
+.main__sub_btn_arrow{
+    margin-right: 10px;
+}
+
+.main__sub_btn_text{
+    font-family: "Red Hat Display";
+    font-size: 19px;
+    margin-left: 10px;
+}
