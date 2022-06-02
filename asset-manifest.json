@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/spatium/static/css/main.89e85bc7.css",
+    "main.js": "/spatium/static/js/main.8911b039.js",
+    "static/media/phone1.png": "/spatium/static/media/phone1.1b3b1d7a2dfedef44900.png",
+    "static/media/computer.png": "/spatium/static/media/computer.375e63b8974757b44ef8.png",
+    "static/media/people.png": "/spatium/static/media/people.4fb1aa6b83f27a8cd78c.png",
+    "static/media/phone2.png": "/spatium/static/media/phone2.37183d711cc7eb3737ff.png",
+    "static/media/Instagram.svg": "/spatium/static/media/Instagram.42adef847cd102bee4d2020aa14914a0.svg",
+    "static/media/Twitter.svg": "/spatium/static/media/Twitter.50dbcfe93d4e6f384b30004009b36c3e.svg",
+    "static/media/LinkedIN.svg": "/spatium/static/media/LinkedIN.671de8f952a47a131173fea16fb7500e.svg",
+    "static/media/Facebook.svg": "/spatium/static/media/Facebook.5b2bf3d37bb4e71d3a8e3bc12e67905b.svg",
+    "index.html": "/spatium/index.html",
+    "main.89e85bc7.css.map": "/spatium/static/css/main.89e85bc7.css.map",
+    "main.8911b039.js.map": "/spatium/static/js/main.8911b039.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89e85bc7.css",
+    "static/js/main.8911b039.js"
+  ]
+}
